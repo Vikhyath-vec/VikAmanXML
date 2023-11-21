@@ -1,0 +1,13 @@
+*.pyc
+*.txt
+*.zip
+*.npz
+*.result
+*.index
+*.meta
+*.log
+*.pickle
+*.json
+*.pt
+checkpoint
+*.data-00000-of-00001
